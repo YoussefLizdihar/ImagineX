@@ -156,7 +156,7 @@ This project provided valuable insights into:
 
 ## Live Demo
 
-Check out the live demo of ImagineX [here](https://j2g6bfkrwob3a4y9lu2uja.on.drv.tw/www.ImagineXai.com/).
+Check out the live demo of ImagineX [here](https://imaginexdemo.netlify.app/).
 
 ## About
 

@@ -37,7 +37,7 @@ ImagineX is a tool that allows users to convert text prompts into images using t
 
 3. **Image Editor**:
     - Edit the generated images directly with a single click and use the filters as you want to make it even better and then save it.
-    - ![Image Editor](https://github.com/YoussefLizdihar/ImagineX/blob/main/assets/img/about/about-2.png)
+    - ![Image Editor](https://github.com/YoussefLizdihar/ImagineX/blob/main/assets/img/about/about-1.png)
 
 ## Installation
 

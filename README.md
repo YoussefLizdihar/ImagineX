@@ -29,19 +29,15 @@ ImagineX is a tool that allows users to convert text prompts into images using t
 
 1. **Quick Image Generation**:
     - Generate images from text prompts quickly and efficiently using the OpenAI API.
-    - ![Quick Image Generation](https://github.com/YoussefLizdihar/ImagineX/blob/main/images/1.png)
+    - ![Quick Image Generation](https://github.com/YoussefLizdihar/ImagineX/blob/main/assets/img/hero/hero-img.png)
 
-2. **Multiple Image Outputs**:
-    - Choose the number of images to generate, from 1 to 4, to suit your needs.
-    - ![Multiple Image Outputs](https://github.com/YoussefLizdihar/ImagineX/blob/main/images/3.png)
-
-3. **Easy Download**:
-    - Download the generated images directly to your device with a single click.
-    - ![Easy Download](https://github.com/YoussefLizdihar/ImagineX/blob/main/images/2.png)
+2. **Multiple Image Outputs and Easy Download**:
+    - Choose the number of images to generate, from 1 to 4, to suit your needs, and download the generated images directly to your device with a single click.
+    - ![Multiple Image Outputs](https://github.com/YoussefLizdihar/ImagineX/blob/main/assets/img/about/about-2.png)
 
 3. **Image Editor**:
     - Edit the generated images directly with a single click and use the filters as you want to make it even better and then save it.
-    - ![Image Editor](https://github.com/YoussefLizdihar/ImagineX/blob/main/images/4.jpeg)
+    - ![Image Editor](https://github.com/YoussefLizdihar/ImagineX/blob/main/assets/img/about/about-2.png)
 
 ## Installation
 

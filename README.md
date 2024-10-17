@@ -69,7 +69,8 @@ To get a local copy up and running follow these simple steps:
 - **HTML**: Used for structuring the web page.
 - **CSS**: Used for styling the web page.
 - **JavaScript**: Used for adding interactivity to the web page.
-
+- **Bootstrap**: making the tool adaptable to various screen sizes and easy to use across devices​.
+ 
 ### Backend
 - **OpenAI API**: Used for generating images from text prompts using AI.
 

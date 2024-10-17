@@ -162,7 +162,7 @@ const handleImageGeneration = (e) => {
   // Creating HTML markup for image cards with loading state and buttons (edit - download)
   const imgCardMarkup = Array.from({ length: userImgQuantity }, () => 
       `<div class="img-card loading">
-        <img src="assets/img/images/loading.webp" alt="AI generated image">
+        <img src="https://i.gifer.com/yy3.gif" alt="AI generated image">
         <a href="#" class="edit-btn">
           <img src="assets/img/images/edit-icon.svg" alt="edit icon">
         </a>

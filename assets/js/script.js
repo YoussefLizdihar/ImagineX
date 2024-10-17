@@ -1,10 +1,10 @@
 /* 
-Project Name: Imaginator - AI Image Generator
+Project Name: ImagineX - AI Image Generator
 Author: Youssef Lizdihar
 Email: Youssefyd.3d@gmail.com
 
 Description:
-Imaginator is an AI-based image generation tool that converts text prompts into high-quality images within seconds. 
+ImagineX is an AI-based image generation tool that converts text prompts into high-quality images within seconds. 
 Utilizing the OpenAI API, this project allows users to input descriptive text and receive visual representations generated 
 by advanced AI algorithms. Users can download or edit the images using a built-in editor. The tool is designed to facilitate 
 creativity and provide quick visual content for various uses. 
@@ -47,7 +47,7 @@ const updateImageCard = (imgDataArray) => {
     imgElement.onload = () => {
       imgCard.classList.remove("loading");
       downloadBtn.setAttribute("href", aiGeneratedImage);
-      downloadBtn.setAttribute("download", `${new Date().getTime()}-imaginator.jpg`);
+      downloadBtn.setAttribute("download", `${new Date().getTime()}-ImagineX.jpg`);
 
       editButton.addEventListener('click', function() {
         if (!contentAdded) {
@@ -281,7 +281,7 @@ const initializeEditor = () => {
     ctx.drawImage(previewImg, -canvas.width / 2, -canvas.height / 2, canvas.width, canvas.height);
 
     const link = document.createElement("a");
-    link.download = `${new Date().getTime()}-imaginator.jpg`;
+    link.download = `${new Date().getTime()}-ImagineX.jpg`;
     link.href = canvas.toDataURL();
     link.click();
   };
